@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "R3Tm6aMQf8YAyEdAJgrBh9pDzwGZLYVB9dnPsCMMmgq",
+  "symbol": "R3T",
+  "name": "R03OT",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/Jb5pQbc.png",
+  "tags": ["utility"],
+  "extensions": {
+    "website": "https://ton-site.com",
+    "coingeckoId": "r3t-token"
+  }
+}
